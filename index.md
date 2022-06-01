@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Workshop on Symmetry and Geometry in Neural Representations 2022
 
-You can use the [editor on GitHub](https://github.com/sgnr-workshop/2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In recent years, there has been a growing appreciation for the importance of modeling the geometric structure in data — a perspective that has developed in both the geometric deep learning and geometric statistics communities. In parallel, an emerging set of findings in neuroscience suggests that group-equivariance and the preservation of geometry and topology may be fundamental principles of neural coding in biology. This workshop will bring together researchers from geometric deep learning and geometric statistics with theoretical and empirical neuroscientists whose work reveals the elegant implementation of geometric structure in biological neural circuitry. Group theory and geometry were instrumental in unifying models of fundamental forces and elementary particles in 20th-century physics. Likewise, they have the potential to unify representation learning, which is itself a process of modeling the world. Our goal for this workshop is to contribute to the emerging paradigm shift towards structured and interpretable representations through the lens of a solid mathematical framework provided by abstract algebra and geometry.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Invited Speakers and Panelists
 
-### Markdown
+- Bruno Olshausen (UC Berkeley)
+- Irina Higgins (DeepMind)
+- Taco Cohen (Qualcomm)
+- Tim Behrens (Oxford)
+- Gabriel Krieman (Harvard)
+- Sara Solla (Northwestern)
+- Søren Hauberg (Technical University of Denmark)
+- Kristopher Torp Jensen (University of Cambridge)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Organizers
 
-```markdown
-Syntax highlighted code block
+- Sophia Sanborn (UC Berkeley / UC Santa Barbara)
+- Christian Shewmake (UC Berkeley)
+- Simone Azeglio (Institut Pasteur)
+- Arianna Di Bernardo (École Normale Supérieure)
+- Nina Miolane (UC Santa Barbara)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sgnr-workshop/2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Program Committee
+- Christopher Hillar (Awecom, Inc.)
+- Francisco Acosta (UC Santa Barbara)
+- Yubei Chen (Meta AI Research)
+- Bruno Olshausen (UC Berkeley)
+- Alessandro Sarti (CNRS)
+- Frank Nielsen (Sony CSL)
+- Santago Cadena (Max Planck School for Intelligent Systems)
+- Adele Myers (UC Santa Barbara)
+- Claire Donnat (University of Chicago)
