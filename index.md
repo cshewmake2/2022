@@ -7,7 +7,6 @@ In recent years, there has been a growing appreciation for the importance of mod
 - Bruno Olshausen (UC Berkeley)
 - Irina Higgins (DeepMind)
 - Taco Cohen (Qualcomm)
-- Tim Behrens (Oxford)
 - Gabriel Krieman (Harvard)
 - Sara Solla (Northwestern)
 - Søren Hauberg (Technical University of Denmark)
